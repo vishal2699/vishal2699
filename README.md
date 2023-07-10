@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Internal Security Audit </b>
-  - [Coursera Activity](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Coursera Activity 1](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
