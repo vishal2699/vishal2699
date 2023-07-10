@@ -21,7 +21,7 @@
 
 
 [instagram]: https://www.instagram.com/guptavishal2699/
-[linkedin]: (https://www.linkedin.com/in/vishal-vishal-09548418b/)
+[linkedin]: https://www.linkedin.com/in/vishal-vishal-09548418b/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
